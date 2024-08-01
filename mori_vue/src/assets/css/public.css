@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Zen Kurenaido', sans-serif;
+    src: url('@/assets/img/ZenKurenaido-Regular.ttf');
+}
+* { 
+    user-select:none;
+    font-family: Zen Kurenaido;
+}
