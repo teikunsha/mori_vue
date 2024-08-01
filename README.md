@@ -24,4 +24,4 @@ Vue 靜態網站切版設計
 
 ## 3. 部署
 
-#### [https://teikunsha.github.io/mori_vue-main/](https://teikunsha.github.io/mori_vue-main/)
+#### [https://teikunsha.github.io/mori_vue/](https://teikunsha.github.io/mori_vue/)
